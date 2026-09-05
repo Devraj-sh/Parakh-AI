@@ -14,7 +14,7 @@ PARAKH AI transforms this workflow into a smart digital inspection process where
 
 ### Project Screenshot
 
-![PARAKH AI Dashboard](public/s.png)
+![PARAKH AI Dashboard](Frontend/public/s.png)
 
 ---
 
